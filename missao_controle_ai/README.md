@@ -209,12 +209,6 @@ mission-control-ai/
 
 ## Demonstração
 
-### Fluxograma
-
-```markdown
-![Fluxograma](assets/fluxograma.png)
-```
-
 ### Execução
 
 ```markdown
