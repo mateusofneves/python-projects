@@ -201,7 +201,7 @@ mission-control-ai/
 ├── mission_control.py
 ├── README.md
 └── assets/
-    ├── fluxograma.png
+    ├── missao_controle_ia.drawio.png
     └── execucao.png
 ```
 
