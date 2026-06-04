@@ -207,16 +207,6 @@ mission-control-ai/
 
 ---
 
-## Demonstração
-
-### Execução
-
-```markdown
-![Execução](assets/execucao.png)
-```
-
----
-
 ## Equipe
 
 **Nome da Missão:** Orion Nexus
