@@ -1,8 +1,8 @@
 # Python Projects
 
-- Consumo de API com relatório
-- Preencher uma matriz
-- Mission Control AI
+- consumo de API com relatório
+- preencher uma matriz
+- mission Control AI
 - exercicio com uso da função sum() e len()
 - exercicio para verificar nota que aluno tirou na prova 
 - controle de temperatura
