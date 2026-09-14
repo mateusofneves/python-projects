@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mateus",
+    "email": "mateus.ofn08@gmail.com",
+    "status": "novo",
+    "created": "2026-09-14"
+  },
+  {
+    "name": "olavo",
+    "email": "olavo@gmail.com",
+    "status": "novo",
+    "created": "2026-09-14"
+  },
+  {
+    "name": "pedro",
+    "email": "p1@gmail.com",
+    "status": "novo",
+    "created": "2026-09-14"
+  }
+]
