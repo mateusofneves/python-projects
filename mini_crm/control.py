@@ -19,9 +19,15 @@ def read_leads():
 
 # CREATE
 def create_lead(lead_dict):
-    # fazer de um jeito que nao percorra todo o arquivo e ainda reescreva
-    
+    if not isinstance(lead_dict, dict):
+        raise TypeError("O lead deve ser um dicionário.")
+
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     leads = read_leads()
     leads.append(lead_dict)
-    DB_PATH.write_text(json.dumps(leads, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    DB_PATH.write_text(
+        json.dumps(leads, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
